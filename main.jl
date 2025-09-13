@@ -131,7 +131,7 @@ while true
     display(surface)
     
     # Prints a separator line for readability.
-    println("_"^44)
+    println("_"^dim[1])
     
     # Pauses the execution for 0.5 seconds.
     sleep(.5)
